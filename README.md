@@ -1,18 +1,21 @@
-<h1>Hi, I'm Jesse! Passonate Cybersecurity Analyst </h1>
+<h1>Hi, I'm Jesse! Passonate Cybersecurity Professional </h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Azure/ Cloud Projects </b>
   - [Creating A Live SOC/Honeynet in Azure](https://github.com/Jessesotelo72/Azure-SOC)
-- 
+- <b> Google Cybersecurity Projects
+  - [Update a file through a Python algorithm](https://docs.google.com/document/d/1ZTpGDsGTxG85jLQHvItSSrAObz5opmYiubKIJXLpRzE/edit?usp=sharing&resourcekey=0-xJg0Kp0z5tbLjkDkaEdCPQ)
+  - [Vulnerability Assessment Report](https://docs.google.com/document/d/1AoJKVjBropfmzwHlpWZVzmVR2AybeGCMPzGN4Hu89WE/edit?usp=sharing) 
+  - [Apply filters to SQL queries](https://docs.google.com/document/d/13wQuJo11ZoUMELrcFu3SXHArSonY3UTEWWPp_oojGOg/edit?usp=sharing&resourcekey=0-lbSqQXPeu7GwEZyAcPuQeg)
+  - [File permissions in Linux](https://docs.google.com/document/d/1GpU8SuoxuOaghHWvBxEd82dRsyZjqgvIfzcRy0DDfm8/edit?usp=sharing)
+   - [Incident handler's journal](https://docs.google.com/document/d/14aJIpVcaCrVikE7Lb6OUEkUek7eksN_LHTOzsVraE-U/edit?usp=sharing)
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+ <h2>Certifications:</h2>
+ 
+ - <b>CompTIA Security+</b>
+ - <b>Cybersecurity Analyst (LeveldCareers)</b>
+ - <b>Google Cybersecurity</b>
 
 <h2> 🤳 Connect with me:</h2>
 
